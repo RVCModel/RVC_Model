@@ -1,3 +1,11 @@
+<div align="center">
+
+[简体中文](https://github.com/RVCModel/RVC_Model/blob/main/README.md) | English | [日本語](https://github.com/RVCModel/RVC_Model/blob/main/READMEja.md)
+
+</div>
+
+# 妙音 RVC 模型工坊 | 音色模型下载与定制平台
+...
 # Myouon RVC Model Workshop | Voice Model Download & Customization Platform
 
 > Official Site: [https://klrvc.com](https://klrvc.com)
