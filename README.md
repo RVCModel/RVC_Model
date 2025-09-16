@@ -1,5 +1,11 @@
-# 妙音 RVC 模型工坊 | 音色模型下载与定制平台
+<div align="center">
 
+简体中文 | [English](https://github.com/RVCModel/RVC_Model/blob/main/READMEen.md) | [日本語](https://github.com/RVCModel/RVC_Model/blob/main/READMEja.md)
+
+</div>
+
+# 妙音 RVC 模型工坊 | 音色模型下载与定制平台
+...
 &gt; 官网地址：[https://klrvc.com](https://klrvc.com)
 
 ## 📌 平台简介
