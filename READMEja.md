@@ -1,3 +1,9 @@
+<div align="center">
+
+[简体中文](https://github.com/RVCModel/RVC_Model/blob/main/README.md) | [English](https://github.com/RVCModel/RVC_Model/blob/main/READMEen.md) | 日本語
+
+</div>
+
 # 妙音（ミョウオン）RVC モデル工房 | ボイスモデルダウンロード＆カスタマイズ
 
 &gt; 公式サイト: [https://klrvc.com](https://klrvc.com)
